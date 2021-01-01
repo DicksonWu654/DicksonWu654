@@ -10,6 +10,6 @@ Hi I'm Dickson! I'm a 17-year-old innovator who's excited to change the world wi
 
 <br>
 
-<a href="https://dicksonwu654.github.io/" target="_blank">
+<a href="https://dicksonwu654.github.io/" target="_blank" align="center">
   <img src="meone.png" alt="Dickson Wu" width="50%"/>
 </a>
