@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-Hi I'm Dickson! I'm a 17-year-old innovator who's excited to change the world with the power of exponential technologies! I love to learn and drill deep into topics! I'm currently pursuing Machine Learning, Quantum Computing, and their intersection!
+Hi I'm Dickson! I'm an 18-year-old innovator who's excited to change the world with the power of exponential technologies! I love to learn and drill deep into topics - I'm currently pursuing Machine Learning, Quantum Computing, and their intersection!
   
 </p>
 
